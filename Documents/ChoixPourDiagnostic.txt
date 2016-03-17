@@ -1,0 +1,3 @@
+L’étape 4 produit un automate avec tous les chemins possibles valides pour le modèle de tâches et qui produisent nécessairement les événements de la trace du scénario 
+
+Le choix est de chercher les chemins les plus courts pour identifier les omissions pour avoir ces chemins courts de produit

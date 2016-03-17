@@ -1,0 +1,15 @@
+wificampus-029122:Traitement sybillecaffiau$ sh RapportAnalyseOmission.sh 
+Début du processus de création du modèle des possibles (étape 4)
+fichier de symboles (.syms) ? 
+label.syms
+automate de tous les chemins valides avec omission (resultat étape4) ? 
+Res.fst
+une trace valide avec vos evenements : 
+5	4	eps	Root	1
+0
+1	0	eps	1	1
+2	1	eps	1.3	1
+3	2	1.2	1.2	2.20000005
+4	3	1.1	1.1	2.0999999
+lorsqu'il y a une transition eps/NXXX c'est qu'il manque un evenement correspondant à la tâche NXXX 
+Fin de l'analyse de la cohérence par omission (étape 5/5)
